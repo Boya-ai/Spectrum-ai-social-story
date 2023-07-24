@@ -1,0 +1,5 @@
+streamlit
+openai
+python-dotenv
+google-cloud-translate
+langchain
