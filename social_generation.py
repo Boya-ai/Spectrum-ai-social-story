@@ -57,7 +57,7 @@ Please format the output story as follows:
 chain = LLMChain(llm=OpenAI(openai_api_key=openai_api_key, temperature=0.7), prompt=prompt_template)
 
 # Title of the app
-st.title('Social Story Generator for Autism')
+st.title('Social Story Generator 🧩')
 
 # Create a form
 with st.form(key='my_form'):
