@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+claude_key
+temp*.py
+*.egg-info
+*.env
+ignore/
+build_and_deploy.sh
+dist/
+.streamlit/secrets.toml
